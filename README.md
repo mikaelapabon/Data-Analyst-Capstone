@@ -36,7 +36,7 @@
 2. The average number of daily steps was 8280 when data points with a record of 1440 sedentary minutes were not included. If we include these data points the daily average would be 7637 steps.
 3. The average distance traveled on foot was 5.95 miles when data points with a record of 1440 sedentary minutes were not included. If we include these data points the daily average would be 5.49 miles.
 4. The chart shows average active and sedentary minutes. 
-![alt text]('Active Minutes.png' "Title")
+![alt text](Active%20Minutes.png?raw=true "Table 1: Active Minutes")
 5. I then took a look at the sleep day dataset. Users spent an average of 419.47 minutes, or about 7 hours, sleeping. As well as spending an average of 458.64 minutes or, about 7.6 hours, in bed. So users spent an average of 39.17 minutes in bed awake.
 6. Finally I took a look at the weight log dataset. Users weigh an average of 72.04 kg, or 158.81 pounds. Users also had an average BMI of 25.19.
 
