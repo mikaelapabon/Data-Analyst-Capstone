@@ -59,7 +59,7 @@
 
 5. Finally I created a figure comparing active minutes and minutes spent asleep to days of the week. 
 
-![alt text](Weekday%20vs%20Average%20Steps.png?raw=true "Weekdays vs ASctive Minutes and Minutes Asleep")
+![alt text](Sheet%205.png?raw=true "Weekdays vs ASctive Minutes and Minutes Asleep")
 
 ## ACT 
 1. Figure 1  shows us that there are lulls in the user's average steps walked throughout the week. Notifications or reminders could be sent throughout the day to encourage users to walk.
