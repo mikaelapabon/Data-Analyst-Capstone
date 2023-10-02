@@ -51,7 +51,7 @@
 
 3. Then I created a figure of users' average sedentary minutes compared to the average total of time they spend in bed.
 
-![alt text](Weekday%20vs%20Average%20Steps.png?raw=true "Sedentary Minutes vs Average Time in Bed")
+![alt text](Sedentary%20Minutes%20vs%20Average%20Time%20in%20Bed.png?raw=true "Sedentary Minutes vs Average Time in Bed")
 
 4. I also created a figure comparing weight, in pounds, to average sedentary and active minutes. The amount of data is also limited for this figure however we can see some slight correlation  in sedentary minutes and active minutes compared to weight. The longer a user is sedentary the higher their weight seems to be and the more minutes spent active the lower the weight tends to be.
 
