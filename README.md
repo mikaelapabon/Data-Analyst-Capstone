@@ -47,7 +47,7 @@
 
 2. Next, I created a figure to find any correlation between average steps taken and BMI. However, due to a lack of data points it is difficult to accept any trend found without doubts. More data would be needed to defend any trends. 
 
-![alt text](Weekday%20vs%20Average%20Steps.png?raw=true "Average Steps vs BMI")
+![alt text](Average%20Steps%20vs%20BMI.png?raw=true "Average Steps vs BMI")
 
 3. Then I created a figure of users' average sedentary minutes compared to the average total of time they spend in bed.
 
