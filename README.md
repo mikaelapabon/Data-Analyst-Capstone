@@ -55,7 +55,7 @@
 
 4. I also created a figure comparing weight, in pounds, to average sedentary and active minutes. The amount of data is also limited for this figure however we can see some slight correlation  in sedentary minutes and active minutes compared to weight. The longer a user is sedentary the higher their weight seems to be and the more minutes spent active the lower the weight tends to be.
 
-![alt text](Weekday%20vs%20Average%20Steps.png?raw=true "Weight vs Average Activity Minutes")
+![alt text](Weight%20vs%20Average%20Activity%20Minutes.png?raw=true "Weight vs Average Activity Minutes")
 
 5. Finally I created a figure comparing active minutes and minutes spent asleep to days of the week. 
 
