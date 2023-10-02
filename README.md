@@ -26,7 +26,7 @@
 - I renamed all the files to meet standard naming conventions.
 - I used conditional formatting to locate any blank and duplicate cells, none were found. However, in the weight log dataset the variable “Fat” had only 2 data entries.
 - I formatted the date for consistency. Reformatting was also necessary in order to upload the datasets to Big Query. 
-2. Next I uploaded the files to SQL for further processing.
+2. Next I uploaded the files to SQL for further processing. SQL code can be found [here](Big-Query.SQL).
 - I standardized the column names for the date in the datasets and formatted them to the same data type.
 - In the activity data set we see that there are 33 unique participants, however, the number of participants that contribute to the other datasets is not consistent. We can see through our SQL query that only 24 participants logged their sleep and only eight participants logged their weight.
 - I then looked for duplicates in the datasets and none were found.
