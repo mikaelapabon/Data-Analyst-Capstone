@@ -42,10 +42,15 @@
 
 ## SHARE
 1. Weekdays seems to have some correlation on the average number of steps a user takes in a day. Taking a look at the Figure below (completed in Tableau) we can see that There are peaks on Tuesday and Saturday with lows on Sunday and Thursday.			
+![alt text](Active%20Minutes.png?raw=true "Table 1: Active Minutes")
 2. Next, I created a figure to find any correlation between average steps taken and BMI. However, due to a lack of data points it is difficult to accept any trend found without doubts. More data would be needed to defend any trends. 
+
 3. Then I created a figure of users' average sedentary minutes compared to the average total of time they spend in bed.
+
 4. I also created a figure comparing weight, in pounds, to average sedentary and active minutes. The amount of data is also limited for this figure however we can see some slight correlation  in sedentary minutes and active minutes compared to weight. The longer a user is sedentary the higher their weight seems to be and the more minutes spent active the lower the weight tends to be.
+
 5. Finally I created a figure comparing active minutes and minutes spent asleep to days of the week. 
+
 
 ## ACT 
 1. Figure 1  shows us that there are lulls in the user's average steps walked throughout the week. Notifications or reminders could be sent throughout the day to encourage users to walk.
